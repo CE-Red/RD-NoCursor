@@ -1,10 +1,10 @@
 # RD-NoCursing
 
-A RubberDucky sript that turns your cursor invisible and will leave your friends cursing in front of their computers
+A RubberDucky script that turns your cursor invisible and will leave your friends cursing in front of their computers
 
 ## Method IWR
 
-This Script starts off by using the Invoke-WebRequest to download and execute the NoCurs.ps1.
+This script starts off by using the Invoke-WebRequest to download and execute the NoCurs.ps1.
 
 The NoCurs.ps1 will then
 1. Create a Nocur.zip file in your Temp-Folder (The Data for the .zip file is encoded in the Script itself)
