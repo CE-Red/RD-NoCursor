@@ -39,6 +39,11 @@ STRINGLN powershell.exe -enc JABiADYANAAgAD0AIAAiAFUARQBzAEQAQgBCAFEAQQBBAEEAQQB
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## How to reverse the changes
+
+Just open the control panel and navigate to "Mouse".
+There you can change the icon back to normal.
+
 ## Contributing
 
 All contributors names will be listed here:
